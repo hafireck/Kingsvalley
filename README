@@ -1,0 +1,25 @@
+1. Voor het committen van je wijzigingen:
+
+git status
+git add .
+git commit -m "Omschrijving van de wijzigingen"
+git push origin master
+
+Ga naar github www.github.com/Accountnaam/Monsters
+
+Klik rechts boven aan de pagina op "Pull Request"
+
+Je Pull Request word verzonden en zal worden geaccepteerd.
+
+2. Voor het binnenhalen van de projectsources:
+
+git fetch upstream
+git merge upstream/master
+
+Op het moment dat je een merge conflict krijgt navigeer je in je Finder naar het betreffende bestand waar het conflict optreed en pas je de code aan zoals je denkt dat deze moet gaan werken.
+
+Herhaal nu stap 1 en ga verder met stap 2.
+
+
+Good Luck
+
