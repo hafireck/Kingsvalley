@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #888;
+}
+
+canvas#kingsValley {
+	display: block;
+	margin: 0px auto;
+	width: 544px;
+	height: 480px;
+	background-color: #000;
+}
